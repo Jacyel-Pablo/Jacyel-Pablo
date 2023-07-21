@@ -2,7 +2,7 @@
 
 Espero que você goste dos projetos que aqui estão
 
-### Você pode entrar em contato comingo pelo emai
+### Você pode entrar em contato comingo pelo email
 
 jacyell.moura@gmail.com
 
