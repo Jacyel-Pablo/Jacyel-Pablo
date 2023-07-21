@@ -9,7 +9,7 @@ jacyell.moura@gmail.com
 E isso esporo que tenha um otimo dia, noite ou qualquer for o horario que você estive lendo isso.
 
 ![](https://media.tenor.com/lqIwOdrDpLQAAAAC/liko-pokemon-sprigatito.gif)
-
+É a jornada continuar pelo mundo da programação de sites e computadores!
 <!--
 **Jacyel-Pablo/Jacyel-Pablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
