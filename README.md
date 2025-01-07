@@ -1,6 +1,12 @@
 ### Olá, Seja bem vindo ao meu perfil 😃
 
-Espero que você goste dos projetos que aqui estão
+Espero que você goste dos projetos que estão aqui
+
+### Abaixo você pode conferir alguns dados meus
+
+![Jacyel-Pablo GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacyel-Pablo&show_icons=true&theme=tokyonight)
+
+![Jacyel-Pablo](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacyel-Pablo&layout=compact)
 
 ### Você pode entrar em contato comingo pelo email
 
@@ -10,7 +16,6 @@ E isso espero que tenha um otimo dia, noite ou qualquer que for o horario que vo
 
 ![](https://media.tenor.com/lqIwOdrDpLQAAAAC/liko-pokemon-sprigatito.gif)
 
-É a jornada continuar pelo mundo da programação de sites e computadores!
 <!--
 **Jacyel-Pablo/Jacyel-Pablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
